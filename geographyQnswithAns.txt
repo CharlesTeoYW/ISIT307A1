@@ -1,0 +1,59 @@
+1. "What type of Climate does Singapore have?"
+Ans: "Tropical"
+
+2."Singapore is characterised by what type of season?"
+Ans: "Monsoon"
+
+3. "Does Singapore have Natural Resources? (Yes/No)"
+Ans: "No"
+
+4. "What part of the hemisphere is Singapore located in?"
+Ans: "Northern"
+
+5. "Singapore consists of:", 
+Choices: 
+"a) 50 island", 
+"b) 63 island", 
+"c) 78 island", 
+"d) 47 island", 
+Ans: "b) 63 island"
+
+6. "What timezone does Singapore follow?:"
+Choices: 
+"a) GMT+5", 
+"b) GMT+8", 
+"c) GMT+9", 
+"d) GMT-6", 
+Ans: "b) GMT+8"
+
+7. "When is the monsoon season for Singapore?"
+Choices: 
+"a) March to August", 
+"b) September to December", 
+"c) November to February", 
+"d) January to March", 
+Ans: "c) November to February"
+
+8. "What is the average temperature of Singapore?"
+Choices: 
+"a) 22 degree celcius to 30 degree celcius", 
+"b) 25 to 32", 
+"c) 25 degree celcius", 
+"d) 28 degree celcius", 
+Ans: "b) 25 to 32"
+
+9. "When is the haze season for Singapore?", 
+Choices: 
+"a) March to August", 
+"b) September to December", 
+"c) November to February", 
+"d) July to October", 
+Ans: "d) July to October"
+
+10. "How much % of Singapore's Forests was lost due to Urbanisation?", 
+Choices: 
+"a) 95", 
+"b) 75", 
+"c) 96", 
+"d) 60", 
+Ans: "a) 95"
