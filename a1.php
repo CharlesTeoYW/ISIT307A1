@@ -17,7 +17,7 @@
         echo "Select type of Quiz:";
         echo "<br> <br>";
         ?>
-        <input type='submit' name='submit' value='History' onclick="this.form.target='_blank';return true;">
+        <input type='submit' name='submit' value='History' onclick="subjects.action='historyQn.php';return true;">
         <input type='submit' name='submit' value="Singapore Geography" onclick="subjects.action='geographyQn.php';  return true;">
         <?php
         echo "</form>";

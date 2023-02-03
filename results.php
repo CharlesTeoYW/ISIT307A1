@@ -79,9 +79,9 @@
     ?>
     <br><br>
     If you would like to continue with another test: 
-    <form name=subjects method='POST' action='History.php'>
+    <form name=subjects method='POST' action='historyQn.php'>
     <input type="hidden" name="score" value="<?php echo $score; ?>">
-    <input type='submit' name='submit' value='Singapore History' onclick="this.form.target='_blank';return true;">
+    <input type='submit' name='submit' value='History' onclick="subjects.action='historyQn.php';return true;">
     <br><br>
     <input type='submit' name='submit' value='Singapore Geography' onclick="subjects.action='geographyQn.php';  return true;">
     
